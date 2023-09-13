@@ -1,2 +1,2 @@
-# bioFoodsGRN-back_end
+# bioFoods-back_end
 -JDK 17 -Spring boot(IDE : Intellij) -MySQL
