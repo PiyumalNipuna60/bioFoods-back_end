@@ -43,13 +43,4 @@ public class UserLoginFormController {
         }
         return isTrue;
     }
-
-
-    @GetMapping(path = "/getAll")
-    private  List<UserDTO> getAllUser() {
-        List<UserDTO> all = userService.getAll();
-        return all;
-    }
-
-
 }
